@@ -1,8 +1,5 @@
 
 
-Are your applications cloud ready ?
-----------------------------------
-
 In recent years, the most fundamental transformation in IT landscape has been the emergence of cloud computing and it’s rapid and universal adoption by large, midsize and small enterprises operating across diverse industries. There has been a strategic shift from ‘build to consume’ and enterprises are taking huge strides in migrating a large number of their traditional and virtualized on-premises workloads onto a cloud computing infrastructure.
 
 A comprehensive cloud infrastructure survey conducted by McKinsey predicts that enterprises’ adoption of Infrastructure as a Service (IaaS) as their primary environment for running application workloads will jump significantly from 10% in 2015 to 51% in 2018. 
