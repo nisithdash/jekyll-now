@@ -1,6 +1,6 @@
 
 
-In recent years, the most fundamental transformation in IT landscape has been the emergence of cloud computing and it’s rapid and universal adoption by large, midsize and small enterprises operating across diverse industries. There has been a strategic shift from ‘build to consume’ and enterprises are taking huge strides in migrating a large number of their traditional and virtualized on-premises workloads onto a cloud computing infrastructure.
+In recent years, the most fundamental transformation in IT landscape has been the emergence of cloud computing and it’s rapid and universal adoption by large, midsize and small enterprises operating across diverse industries. There has been a strategic shift from *‘build to consume’* and enterprises are taking huge strides in migrating a large number of their traditional and virtualized on-premises workloads onto a cloud computing infrastructure.
 
 A comprehensive cloud infrastructure survey conducted by McKinsey predicts that enterprises’ adoption of Infrastructure as a Service (IaaS) as their primary environment for running application workloads will jump significantly from 10% in 2015 to 51% in 2018. 
 
@@ -9,8 +9,7 @@ The benefits of migrating to a cloud infrastructure are fairly obvious and compe
 In this blog post, i’ll briefly describe some commonly adopted strategies for migrating your application workloads on to any cloud infrastructure. Additionally, I’ll provide a checklist to analyze your application workloads for their suitability for migration and lay down some guidelines for on-boarding applications successfully on to a cloud environment.
 
 ----------
-
-**Defining Cloud Migration Strategy**
+# Defining Cloud Migration Strategy #
 
 In the process of strategizing their approach to cloud adoption, the first order of business for enterprises is often to dissipate the confusion surrounding the crowded landscape of different cloud architectures, service, deployment and hosting models, vendor platform, SLAs covering security, data governance, disaster recovery etc. Additionally, there is a laundry list of technical considerations like security, multi-tenancy, suitability of workloads for migration, evaluation of automated tools to handle migration and financial considerations that should be clearly addressed for a smooth transition onto the cloud.
 
@@ -43,7 +42,8 @@ However, the cost of re-platforming apps is significant higher since it inevitab
 It is an approach where the application is fully compliant with the cloud computation model and adheres to the cloud first principles. It also means exclusively utilizing the cloud platform for application development, deployment and operation. Cloud native applications operate at the highest level of abstraction from the underlying IaaS or PaaS platform. They utilize the full capabilities of the platform which does all of the undifferentiated heavy lifting on their behalf like routing, load balancing, scaling, fault tolerance, user management, auditing etc. Converting legacy monolithic applications to cloud native is complex and in most situations involves a complete re-architecture of the existing system across the technology stack. Additionally, you need to cultivate a devOps culture within your organization that enables continuous integration, delivery and deployment of applications in a fully automated fashion.
 
 ----------
-**Analyzing Workloads for Migration**
+
+# Analyzing Workloads for Migration #
 
 A key decision that needs to be made along with determining your overarching cloud migration strategy is to analyze and select workloads that are suitable for migration. Most organizations have a heterogenous mix of new, legacy and third-party applications. Accordingly, each of these applications needs to evaluated and categorized in terms of their migration complexity, costs and risks. Each of them need to assigned a appropriate migration method that minimizes all of the above.
 
@@ -128,7 +128,8 @@ There are some basic software architecture principles that are absolutely critic
 
 
 ----------
-**Cloud On-Boarding Workloads**
+
+# On-Boarding Workloads #
 
 Once the application workloads have been identified for migration, they must be prepared for on-boarding on to the cloud environment. Successful application on-boarding is all about careful planning and preparation.
 
@@ -148,7 +149,7 @@ Once the cloud  deployed application is qualified, it is time to cutover and ret
 
 After the migration is accomplished successfully, it is necessary to monitor the application and its usage patterns while it is operating in the cloud. There are a variety of tools available that can help in providing application-level insights and monitoring.
 
-Conclusion
+# Conclusion #
 ----------
-Migrating to a cloud is an extremely complex undertaking. It requires a comprehensive plan and a considerable level of organizational readiness to push through the cultural, technical and process changes needed to implement a cloud first strategy. A cohesive and consistent approach is needed to evaluate various service providers, cloud services, deployment models, data security requirements etc. The ultimate objective is to make informed decisions and strike a balance between operational risks and expected benefits.
+Migrating to a cloud is an extremely complex undertaking. It requires a comprehensive plan and a considerable level of organizational readiness to push through the cultural, technical and process changes needed to implement a *cloud first* strategy. A cohesive and consistent approach is needed to evaluate various service providers, cloud services, deployment models, data security requirements etc. The ultimate objective is to make informed decisions and strike a balance between operational risks and expected benefits.
 
