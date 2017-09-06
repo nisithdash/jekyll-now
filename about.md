@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Full Stack Software Engineer. Currently working on HigherEd domains like Federated IAM, LMS, LRS, Content Publishing, Learning Analytics. 
+Full Stack Software Architect / Startup Engineer. Currently focussed on HigherEd domainslike Federated IAM, LMS, LRS, Content Publishing, Learning Analytics. 
 
-### More Information
+### 
 
-Loves hacking, gingerale, wilderness and all things open source
+Regular Person. I love hacking, gingerale, wilderness and all things open source
 
 ### Contact me
 
