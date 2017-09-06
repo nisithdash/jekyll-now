@@ -57,32 +57,21 @@ It is a complex process to navigate your application landscape and analyze the w
 
  - Is your application data business-sensitive ? How is it secured ?
 
- - Are there any specific security and compliance requirements (eg
-   encryption, isolation etc) ?
+ - Are there any specific security and compliance requirements (e.g. encryption, isolation etc) ?
 
- - What supporting service requirements does the workload have to
-   satisfy (eg, in terms of backup, disaster recovery, monitoring) ?
+ - What supporting service requirements does the workload have to satisfy (eg, in terms of backup, disaster recovery, monitoring) ?
 
- - What are the performance requirements of the application like
-   response rates, transaction rates, number of simultaneous users,
-   volume of data usage, failure recovery SLAs, scalability,
+ - What are the performance requirements of the application like response rates, transaction rates, number of simultaneous users, volume of data usage, failure recovery SLAs, scalability,
 
- - What is the application architecture ? Is it a monolith or
-    distributed app, what are the external dependencies and degree of
-    coupling among the subsystems Can the application services be scale
-    horizontally ?
+ - What is the application architecture ? Is it a monolith or distributed app, what are the external dependencies and degree of coupling among the subsystems Can the application services be scale horizontally ?
     
- - What are the dependencies and integration touch points with other
-    workloads ? What OS, databases and application servers are being
+ - What are the dependencies and integration touch points with other workloads ? What OS, databases and application servers are being
 
- - What are the CPU, memory, network and storage requirements and what
-    will it cost to provide these in a cloud environment ?
+ - What are the CPU, memory, network and storage requirements and what will it cost to provide these in a cloud environment ?
     
- - How many hours/people are required to support the workload and what
-    do they cost ? What are the costs of licensing and operational costs  ? 
+ - How many hours/people are required to support the workload and what do they cost ? What are the costs of licensing and operational costs ? 
     
- - Does the cloud provider offer better disaster recovery capabilities
-    than you currently use ?
+ - Does the cloud provider offer better disaster recovery capabilities than you currently use ?
 
 As cloud platforms have matured over the years, there is a growing trend within organizations to architect and/or refactor applications to take full advantage of the platform. Greenfield applications provides an excellent opportunity to start building on a cloud platform using cloud-first principles from day one. However, legacy migration demands a more incremental approach where you can start transitioning business logic to the cloud by creating cloud-native microservices that will strangle legacy components, one at a time. To ensure a seamless integration between the new cloud workloads and services that are not migrated, it may be necessary to build a hybrid cloud infrastructure comprising of your on-premise data center and the public/private cloud.
 
@@ -127,11 +116,9 @@ There are some basic software architecture principles that are absolutely critic
        other.
 
 
-----------
+------------
 
 # On-Boarding Workloads #
-
-Once the application workloads have been identified for migration, they must be prepared for on-boarding on to the cloud environment. Successful application on-boarding is all about careful planning and preparation.
 
 Once the application workloads have been identified for migration, they must be prepared for on-boarding on to the cloud environment. Successful application on-boarding is all about careful planning and preparation.
 
