@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full Stack Software Engineer. Currently working on HigherEd domains like Federated IAM, LMS, LRS, Content Publishing, Learning Analytics. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Loves hacking, gingerale, wilderness and all things open source
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nisithdash@gmail.com](mailto:nisithdash@gmail.com)
