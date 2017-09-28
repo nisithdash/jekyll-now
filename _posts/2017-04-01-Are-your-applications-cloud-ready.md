@@ -25,7 +25,7 @@ However, this strategy has several limitations. Firstly, not all applications ar
 
 A lift and shift migration process typically entails the following steps as illustrated in the diagram below:
 
-({{ site.baseurl }}/images/post1_diag1.png)
+![_config.yml]({{ site.baseurl }}/images/post1_diag1.png)
 
 Most cloud platform providers provide some tools to automate lift and shift tasks. Amazon AWS provides tools, most notably Snowball and VM Import/Export to migrate petabyte-scale data and virtual machines in and out of the public cloud.
 
