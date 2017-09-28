@@ -136,7 +136,9 @@ There are some basic software architecture principles that are absolutely critic
 
 # On-Boarding Workloads #
 
-Once the application workloads have been identified for migration, they must be prepared for on-boarding on to the cloud environment. Successful application on-boarding is all about careful planning and preparation.
+Once the application workloads have been identified for migration, they must be prepared for on-boarding on to the cloud environment. Successful application on-boarding is all about careful planning and preparation. The steps involved in on-boarding are illustrated below.
+
+![an image alt text]({{ site.baseurl }}/images/post1_diag2.png "an image title")
 
 Preparing the application for migration involves implementing all the refactoring /re-platforming changes identified for it to work well in the cloud. Also, it usually involves containerization or virtualization of the workload, if not already done so. 
 
