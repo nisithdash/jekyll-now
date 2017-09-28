@@ -8,6 +8,6 @@ Full Stack Software Engineer. Currently focussed on HigherEd technologies like F
 
 ### Contact me
 
-[nisithdash@gmail.com](mailto:nisithdash@gmail.com)
+Email: [nisithdash@gmail.com](mailto:nisithdash@gmail.com)
 
-Linkedin: https://www.linkedin.com/in/nisithdash/
+LinkedIn: https://www.linkedin.com/in/nisithdash/
