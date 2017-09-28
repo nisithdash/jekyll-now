@@ -50,6 +50,12 @@ There are four factors that are fundamental to building and delivering cloud nat
 
 ![an image alt text]({{ site.baseurl }}/images/post1_diag2.png "an image title")
 
+Composable architecture means decomposing a traditional monolith application into micro services and/or serverless components. This is the first step towards realizing the true promise of a cloud native architecture. A time-consuming task is to identify all external dependencies, isolate them and gradually remove them. You would need to create APIs as a front end to all the legacy services, then slowly start replacing various subcomponents of those systems that cannot be migrated to the cloud.
+
+Another requirement is to utilize a Structured platform built expressly to run cloud native apps so that IT operations can focus on tasks that deliver most strategic impact to your organization rather than focus on undifferentiated tasks like deployment automation, gathering health metrics, providing application visibility, monitoring etc. Cloud Foundry PaaS from Pivotal is an excellent example of such a structured platform that takes the pain out of continuous delivery of cloud native apps.
+
+It is also extremely important for process, cultural, and organizational changes to accompany the technical changes so as to deliver continuously in the cloud environment. Automation of the entire software delivery pipeline is not possible unless there is enhanced collaboration among all the teams with a shared responsibility. There needs to be a collective ownership over the entire development-to-operations life cycle of the software.
+
 
 ----------
 
