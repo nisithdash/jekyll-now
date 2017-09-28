@@ -46,6 +46,11 @@ However, the cost of re-platforming apps is significant higher since it inevitab
 
 It is an approach where the application is fully compliant with the cloud computation model and adheres to the cloud first principles. It also means exclusively utilizing the cloud platform for application development, deployment and operation. Cloud native applications operate at the highest level of abstraction from the underlying IaaS or PaaS platform. They utilize the full capabilities of the platform which does all of the undifferentiated heavy lifting on their behalf like routing, load balancing, scaling, fault tolerance, user management, auditing etc. Converting legacy monolithic applications to cloud native is complex and in most situations involves a complete re-architecture of the existing system across the technology stack. Additionally, you need to cultivate a devOps culture within your organization that enables continuous integration, delivery and deployment of applications in a fully automated fashion.
 
+There are four factors that are fundamental to building and delivering cloud native apps, as illustrated below.
+
+![an image alt text]({{ site.baseurl }}/images/post1_diag2.png "an image title")
+
+
 ----------
 
 # Analyzing Workloads for Migration #
