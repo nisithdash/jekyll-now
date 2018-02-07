@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Full Stack Software Engineer. Currently focussed on HigherEd technologies like Federated IAM, LMS, LRS, Content Publishing, Learning Analytics etc. 
+Experienced Full Stack Software Guy! Love coding and open source software.
 
-I love wilderness, percussions and open source software.
+Currently focussed on HigherEd technologies like Federated IAM, LMS, LRS, Content Publishing, Learning Analytics etc. 
 
 ### Contact me
 
