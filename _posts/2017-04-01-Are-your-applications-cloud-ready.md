@@ -1,4 +1,9 @@
+---
+published: false
+---
 
+
+# Introduction #
 
 In recent years, the most fundamental transformation in IT landscape has been the emergence of cloud computing and it’s rapid and universal adoption by large, midsize and small enterprises operating across diverse industries. There has been a strategic shift from *‘build to consume’* and enterprises are taking huge strides in migrating a large number of their traditional and virtualized on-premises workloads onto a cloud computing infrastructure.
 
@@ -157,4 +162,3 @@ After the migration is accomplished successfully, it is necessary to monitor the
 # Conclusion #
 ----------
 Migrating to a cloud is an extremely complex undertaking. It requires a comprehensive plan and a considerable level of organizational readiness to push through the cultural, technical and process changes needed to implement a *cloud first* strategy. A cohesive and consistent approach is needed to evaluate various service providers, cloud services, deployment models, data security requirements etc. The ultimate objective is to make informed decisions and strike a balance between operational risks and expected benefits.
-
