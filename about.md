@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-_Full Stack Software Engineer_. ![19458053.jpg]({{site.baseurl}}/19458053.jpg)
+_Full Stack Software Engineer_.
 Loves coding and open source software.
 
 Currently focussed on HigherEd technologies like Federated IAM, LMS, LRS, Content Publishing, Learning Analytics etc. 
