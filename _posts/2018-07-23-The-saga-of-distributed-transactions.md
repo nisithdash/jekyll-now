@@ -8,6 +8,7 @@ published: true
 
 ![saga_confirm.png]({{site.baseurl}}/_posts/saga_confirm.png)
 
+
 Transactions are fundamental to any software system in order to maintain consistency of data when it is being concurrently read and modified by multiple processes within such a system. We are all well aware of ACID transactional semantics that provides guarantees that each thread or process has exclusive access to the data during it’s interaction. Transactions work fine to enforce those guarantees when we have a monolithic application directly accessing a single transactional data source. However, in cases where we need to interact with multiple transactional data sources to complete an atomic unit of work, we need to employ the de facto standard of XA that uses two-phase commit to ensure all participants in the transaction either commit or rollback. Distributed transactions poses a host of problems even when a small number of participants are involved in a local transaction. It minimizes system throughput, severely limits our ability to scaling out transactional resources. Again, with increasing concurrency, the risk of contentions within the system becomes high and to an extent where performance is simply unacceptable.
 
 
