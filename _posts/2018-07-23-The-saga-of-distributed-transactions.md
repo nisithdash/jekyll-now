@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The _Saga_ of Distributed Transactions
 
@@ -10,8 +10,4 @@ Transactions are fundamental to any software system in order to maintain consist
 
 Most modern systems are extremely distributed in nature and are usually composed of multiple geographically dispersed resources like databases, NoSQL data stores, messaging queues, application caches etc. They need to be designed with support for extremely high levels of scalability and availability.  They need to be resilient to infrastructure and network failures. They need to be able to quickly recover from partial failures due to temporary unavailability of one or more resources. They need to frequently interact with non-transactional resources like NoSQL databases such as MongoDB and Cassandra or message brokers like RabbitMQ or Apache Kafka. All of these reasons make it impossible to use distributed transaction protocols like XA to maintain strict data consistency. As a matter of fact, eventual consistency of data is a widely accepted compromise to achieve a extremely high degree of scalability and availability. 
 
-In this blog post, I will provide an introduction of Saga, a completely new approach to doing transactions correctly in a highly distributed, highly scalable modern system without encountering any of the drawbacks mentioned earlier. 
-
-
-
-
+In this blog post, I will provide an introduction of Saga, a completely new approach to doing transactions correctly in a highly distributed, highly scalable modern system without encountering any of the drawbacks mentioned earlier.
